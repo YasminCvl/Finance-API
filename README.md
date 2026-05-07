@@ -28,8 +28,53 @@ As a professional with a background in **Visual Identity** and **Front-end Devel
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YasminCvl/Finance-API.git](https://github.com/YasminCvl/Finance-API.git)
-   📫 Connect with me:
-   [LinkedIn](www.linkedin.com/in/yasmin-carvalho333)
    
    cd Finance-API
    ./mvnw spring-boot:run
+Com certeza! Aqui está o modelo prontinho para você copiar e colar.
+
+Ajustei uns detalhes para ficar bem profissional, destacando que você é formada em ADS e tem esse olhar apurado para design.
+
+Copie o texto abaixo:
+Markdown
+# Finance API 💰
+
+A robust RESTful API developed to manage personal transactions, providing a solid backend structure for financial control applications.
+
+---
+
+## ✨ Overview
+
+This project was built with a focus on **Clean Architecture** and **Clean Code** principles. It serves as a centralized engine to handle financial data, categories, and transaction history, ensuring security and performance.
+
+## 🚀 Technologies
+
+This project leverages a modern tech stack:
+* **Java** with **Spring Boot**
+* **Maven** (Dependency management)
+* **RESTful Design Patterns**
+* **H2/PostgreSQL** (Database)
+
+## 🎨 Design & UI/UX Perspective
+
+As a professional with a background in **Visual Identity** and **Front-end Development**, I designed this API to ensure:
+* Seamless integration with modern frontend frameworks.
+* Clear and consistent data structures for dashboard visualization.
+* Scalability to support complex financial interfaces.
+
+## 🛠️ How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YasminCvl/Finance-API.git](https://github.com/YasminCvl/Finance-API.git)
+Navigate to the folder:
+
+Bash
+cd Finance-API
+Run the application:
+
+Bash
+./mvnw spring-boot:run
+
+## 📫 Connect with Me
+[LinkedIn] www.linkedin.com/in/yasmin-carvalho333
