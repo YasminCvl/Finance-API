@@ -34,13 +34,5 @@ As a professional with a background in **Visual Identity** and **Front-end Devel
 
 ---
 
-## 🚀 Technologies
-
-This project leverages a modern tech stack:
-* **Java** with **Spring Boot**
-* **Maven** (Dependency management)
-* **RESTful Design Patterns**
-* **H2/PostgreSQL** (Database)
-
 ## 📫 Connect with Me
 [LinkedIn] www.linkedin.com/in/yasmin-carvalho333
